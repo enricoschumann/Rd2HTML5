@@ -1,0 +1,13 @@
+Package: Rd2HTML5
+Type: Package
+Title: Transform Rd Into HTML5
+Version: 0.0-1
+Date: 2017-12-13
+Maintainer: Enrico Schumann <es@enricoschumann.net>
+Authors@R: person("Enrico", "Schumann",
+                  role  = c("aut", "cre"),
+                  email = "es@enricoschumann.net",
+		  comment = c(ORCID = "0000-0001-7601-6576"))
+Description: Transform Rd files into plain HTML5 markup.
+License: GPL-3
+
